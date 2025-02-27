@@ -10,7 +10,7 @@
             margin: 0;
             padding: 0;
             text-align: center;
-            background: linear-gradient(to right, #a2c2e3, #c0dbeb); /* 淡藍色漸層背景 */
+            background: linear-gradient(to right, #a2c2e3, #d1e5f0); /* 淡藍色漸層背景 */
             color: #333;
         }
 
@@ -58,9 +58,6 @@
     </style>
 </head>
 <body>
-    <h1>Cai-Ning Wong 王彩寧</h1>
-    <p style="font-size: 1.2em;">Graduate student at National Yang Ming Chiao Tung University</p>
-
     <div class="container">
         <h2>學歷 (Education)</h2>
         <div class="education">
@@ -72,4 +69,3 @@
     </div>
 </body>
 </html>
-
