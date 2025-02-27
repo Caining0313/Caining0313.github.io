@@ -10,7 +10,7 @@
             margin: 0;
             padding: 0;
             text-align: center;
-            background: linear-gradient(to right, #4facfe, #00f2fe); /* 藍綠漸層背景 */
+            background: linear-gradient(to right, #a2c2e3, #d1e5f0); /* 淡藍色漸層背景 */
             color: #333;
         }
 
@@ -30,12 +30,12 @@
             font-size: 2.5em; 
             font-weight: bold;
             margin-bottom: 10px;
-            color: #2c3e50;
+            color: #3a5f73; /* 深藍色 */
         }
         h2 { 
             font-size: 1.8em; 
             margin-bottom: 10px;
-            color: #007acc;
+            color: #58a6d2; /* 淡藍色 */
         }
 
         /* 學歷區塊 */
@@ -66,9 +66,10 @@
         <div class="education">
             <ul>
                 <li><strong>2020-2024</strong> 國立中正大學 財務金融系</li>
-                <li><strong>2024-現在</strong> 國立陽明交通大學 財金所</li>
+                <li><strong>2024-now</strong> 國立陽明交通大學 財金所</li>
             </ul>
         </div>
     </div>
 </body>
 </html>
+
