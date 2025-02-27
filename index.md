@@ -59,11 +59,11 @@
 </head>
 <body>
     <div class="container">
-        <h2>學歷 (Education)</h2>
+        <h2>Education</h2>
         <div class="education">
             <ul>
-                <li><strong>2020-2024</strong> 國立中正大學 財務金融系</li>
-                <li><strong>2024-now</strong> 國立陽明交通大學 財金所</li>
+                <li><strong>2020-2024</strong> National Chung Cheng University FIN</li>
+                <li><strong>2024-now</strong> National Yang Ming Chiao Tung University IOF</li>
             </ul>
         </div>
     </div>
