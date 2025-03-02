@@ -16,7 +16,12 @@ I am a Graduate student in the Department of Information Management and Finance 
 - M.S. in Finance (Present)  
 
 ### National Chung Cheng University  
-- B.S. in Finance (2024)  
+- B.S. in Finance (2024)
 
+## 👜 Work Experience
+
+### Taiwan Cooperative Bank
+- Intern (2024)
+  
 ## 📚 Additional Resources  
 🎗️ [Map, Food, Smiles](https://github.com/HWTeng-Teaching/202502-Financial-Econometrics/blob/7add4179af23da621274892f1cb1bc351e61c851/313707006_Cai%20Ning/README.md)  
