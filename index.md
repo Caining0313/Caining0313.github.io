@@ -1,8 +1,6 @@
 ---
-title: "Cai-Ning Wong 王彩寧"
-author: "Cai-Ning Wong"
 Description: "Graduate student at National Yang Ming Chiao Tung University"
-theme: jekyll-theme-cayman  # Change theme if needed
+theme: jekyll-theme-modernist  
 ---
 # Cai-Ning Wong 王彩寧
 I am a Graduate student in the Department of Information Management and Finance at National Yang Ming Chiao Tung University (NYCU).
