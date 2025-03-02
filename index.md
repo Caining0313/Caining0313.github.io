@@ -8,8 +8,7 @@ theme: jekyll-theme-modernist
 I am a Graduate student in the Department of Information Management and Finance at National Yang Ming Chiao Tung University (NYCU).  
 
 ✉️ Email: cainingwang0313@gmail.com  
-🧷 Linkedin:  
-[https://www.linkedin.com/in/%E5%BD%A9%E5%AF%A7-%E7%8E%8B-306624317/](https://www.linkedin.com/in/%E5%BD%A9%E5%AF%A7-%E7%8E%8B-306624317/)  
+🧷 Linkedin: www.linkedin.com/in/cainingwong
 
 ## 🎓 Education  
 
