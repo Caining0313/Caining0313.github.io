@@ -4,7 +4,7 @@ description: "Graduate student at National Yang Ming Chiao Tung University"
 theme: jekyll-theme-modernist
 ---
 
-# Cai-Ning Wong 王彩寧  
+# 王彩寧  
 I am a Graduate student in the Department of Information Management and Finance at National Yang Ming Chiao Tung University (NYCU).  
 
 ✉️ Email: cainingwang0313@gmail.com  
