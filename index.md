@@ -1,75 +1,22 @@
-<html lang="zh-TW">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cai-Ning Wong 王彩寧</title>
-    <style>
-        /* 全局樣式 */
-        body { 
-            font-family: Arial, sans-serif; 
-            margin: 0;
-            padding: 0;
-            text-align: center;
-            background: linear-gradient(to right, #a2c2e3, #e3f2fa); /* 淡藍色漸層背景 */
-            color: #333;
-        }
+---
+title: "Cai-Ning Wong 王彩寧"
+author: "Cai-Ning Wong"
+Description: "Graduate student at National Yang Ming Chiao Tung University"
+theme: jekyll-theme-cayman  # Change theme if needed
+---
+# Cai-Ning Wong 王彩寧
+I am a Graduate student in the Department of Information Management and Finance at National Yang Ming Chiao Tung University (NYCU).
 
-        /* 主要容器 */
-        .container { 
-            width: 60%; 
-            margin: 50px auto;
-            background: white; /* 讓主要內容區塊有白色背景 */
-            padding: 20px;
-            border-radius: 10px; /* 圓角設計 */
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* 增加陰影讓畫面更立體 */
-            text-align: left;
-        }
+✉️ Email: cainingwang0313@gmail.com
+🧷 Linkedin: https://www.linkedin.com/in/%E5%BD%A9%E5%AF%A7-%E7%8E%8B-306624317/
 
-        /* 標題樣式 */
-        h1 { 
-            font-size: 2.5em; 
-            font-weight: bold;
-            margin-bottom: 10px;
-            color: #3a5f73; /* 深藍色 */
-        }
-        h2 { 
-            font-size: 1.8em; 
-            margin-bottom: 10px;
-            color: #58a6d2; /* 淡藍色 */
-        }
+## 🎓 Education
 
-        /* 學歷區塊 */
-        .education { 
-            background: #f4f4f4; 
-            padding: 15px;
-            border-radius: 8px;
-            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-        }
+### National Yang Ming Chiao Tung University 
+- M.S. in Finance (Present)
 
-        ul { 
-            list-style-type: circle; /* 使用圓點 */
-            padding-left: 20px; 
-        }
+### National Chung Cheng University
+- B.S. in Finance (2024)  
 
-        li { 
-            margin: 8px 0;
-            font-size: 1.1em;
-        }
-    </style>
-</head>
-<body>
-    <h1>Cai-Ning Wong 王彩寧</h1>
-    <p style="font-size: 1.2em;">Graduate student at National Yang Ming Chiao Tung University</p>
-
-    <div class="container">
-        <h2>學歷 (Education)</h2>
-        <div class="education">
-            <ul>
-                <li><strong>2020-2024</strong> National Chung Cheng University FIN</li>
-                <li><strong>2024-now</strong> National Yang Ming Chiao Tung University IOF</li>
-            </ul>
-        </div>
-    </div>
-</body>
-</html>
-
+## 📚 Additional Resources
+🎗️ [Map, Food, Smiles](https://github.com/HWTeng-Teaching/202502-Financial-Econometrics/blob/7add4179af23da621274892f1cb1bc351e61c851/313707006_Cai%20Ning/README.md)
